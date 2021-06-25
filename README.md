@@ -1,0 +1,2 @@
+# NTNUiPadel
+beta.NTNUiPadel.no
