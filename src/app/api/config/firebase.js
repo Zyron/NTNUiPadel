@@ -5,14 +5,14 @@ import "firebase/auth";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: "ntnui-paddling.firebaseapp.com",
-  databaseURL: "https://ntnui-paddling.firebaseio.com",
-  projectId: "ntnui-paddling",
-  storageBucket: "ntnui-paddling.appspot.com",
-  messagingSenderId: "1013895161872",
-  appId: "1:1013895161872:web:662491935ade095404c295",
-  measurementId: "G-CD1810NNG5",
+  apiKey: "AIzaSyCOEMtuFd60J-2_Q-6f4iwi81-btqC3pX8",
+  authDomain: "ntnuipadel.firebaseapp.com",
+  databaseURL: "https://ntnuipadel-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "ntnuipadel",
+  storageBucket: "ntnuipadel.appspot.com",
+  messagingSenderId: "692474141694",
+  appId: "1:692474141694:web:9e0f87e18cc37464293eaf",
+  measurementId: "G-T3EHNYZTF6",
 };
 
 firebase.initializeApp(firebaseConfig);

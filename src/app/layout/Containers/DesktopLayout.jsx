@@ -25,7 +25,7 @@ export default function DesktopLayout({ children }) {
               alt="logo"
               style={{ marginRight: "15px" }}
             />
-            NTNUI PADLING
+            NTNUi Padel
           </Menu.Item>
 
           {/* <Menu.Item name="News" as={NavLink} to="/news">

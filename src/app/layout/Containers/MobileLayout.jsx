@@ -94,7 +94,7 @@ export default function MobileLayout({ children }) {
                   alt="logo"
                   style={{ marginRight: "15px" }}
                 />
-                NTNUI PADLING
+                NTNUi Padel
               </Menu.Item>
             </Menu>
           </Container>

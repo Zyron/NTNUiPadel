@@ -20,7 +20,7 @@ export default function NavBar({ setFormOpen }) {
             alt="logo"
             style={{ marginRight: "15px" }}
           />
-          NTNUI-PADLING
+          NTNUi PADEL
         </Menu.Item>
 
         <Menu.Item as={NavLink} to="/events" name="Events" />
