@@ -69,7 +69,7 @@ export default function NewsDashboard() {
             <>
               <Header as="h1" textAlign="center">
                 <Image src="/assets/images/logo.png" />
-                Welcome to NTNUI Padling
+                Welcome to NTNUi Padel
               </Header>
               <Header content="Information about us" />
 
