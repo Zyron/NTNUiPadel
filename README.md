@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NTNUiPadel
 beta.NTNUiPadel.no
 =======
