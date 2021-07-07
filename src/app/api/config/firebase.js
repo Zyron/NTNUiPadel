@@ -5,7 +5,7 @@ import "firebase/auth";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCOEMtuFd60J-2_Q-6f4iwi81-btqC3pX8",
+  apiKey: process.env.REACT_APP_API_KEY,
   authDomain: "ntnuipadel.firebaseapp.com",
   databaseURL: "https://ntnuipadel-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "ntnuipadel",
